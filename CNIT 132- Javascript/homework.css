@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+    background-color: #f8d7f5;
+  }
+
+.title {
+    color:#333;
+    font-family: 'GT Sectra Display';
+        src: url('../assets/fonts/GT-Sectra-Display-Super-Italic.woff') format('woff');
+    font-style: italic;
+    font-weight: 800;
+   }
+   
+.homework-link {
+    Color: #333;
+    font-family: 'Sans serif';
+    font-weight: 400;
+   }
+   
+.homework-link: hover {
+    Color: #2E0854;
+   }
+   
